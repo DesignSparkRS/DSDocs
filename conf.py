@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'DesignSpark Documentation'
-copyright = '2021, RS Components'
+copyright = '2022, RS Components'
 author = 'DesignSpark'
 
 
@@ -31,8 +31,16 @@ author = 'DesignSpark'
 
 extensions = [
     "sphinx.ext.autosectionlabel",
+    "sphinx.ext.intersphinx",
     "sphinx_rtd_theme"
 ]
+
+# Configuration for intersphinx mapping
+
+intersphinx_mapping = {
+    # Links to the Air Quality Device Application project.
+    'aq-device': ('https://docs.designspark.io/projects/aq-device/en/latest/', None),
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

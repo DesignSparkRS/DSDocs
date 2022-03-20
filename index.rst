@@ -1,7 +1,9 @@
-Welcome to DesignSpark Documentation
-====================================
+DesignSpark Documentation
+=========================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+
+   Welcome <self>
+   documentation/index
 
