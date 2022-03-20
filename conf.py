@@ -53,6 +53,7 @@ exclude_patterns = ['venv', '_build', 'Thumbs.db', '.DS_Store']
 # This is where we place substitutions, such as for Unicode characters.
 rst_epilog = """
 .. include:: /substitutions.txt
+.. include:: /links.txt
 """
 
 # Allow same section headings and thus labels to be used across documents.

@@ -1,6 +1,15 @@
 Taxonomy
 ========
 
+An taxonomy is being developed so as to ensure consistency in the labelling of
+data gathered and avoid multiple labels being used for the same thing. 
+
+Should it be neccessary to extend the taxonomy, e.g. to add a missing location,
+there are two routes to achieving this:
+
+#. Submit a pull request to modify this page (see Edit on GitHub link top-right)
+#. Raise a `support ticket`_ (Air Quality Project - Cloud Support)
+
 Location
 --------
 
@@ -8,12 +17,12 @@ Location
    :widths: auto
    :header-rows: 1
 
-   * - Label
+   * - Value
      - Description
    * - livingroom
      - Main living space
    * - kitchen
-     - Kitchen (domestic or commercial)
+     - Domestic or commercial kitchen
    * - utilityroom
      - Utility room, e.g. laundry etc.
    * - hallway
@@ -22,11 +31,34 @@ Location
      - Dining room
    * - bedroom
      - Bedroom
+   * - office
+     - Home or business office
    * - attic
      - Attic
    * - basement
      - Basement
+   * - conservatory
+     - Conservatory 
    * - garage
      - Garage
    * - greenhouse
      - Greenhouse
+   * - shed
+     - Shed
+   * - workshop
+     - Home, work or makerspace workshop
+   * - outdoor
+     - Any outdoor location, e.g. house wall or garden etc.
+
+Project
+-------
+
+.. list-table::
+   :widths: auto
+   :header-rows: 1
+
+   * - Value
+     - Description
+   * - makerspace
+     - Makerspace/hackerspace subproject. 
+
