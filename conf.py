@@ -38,8 +38,8 @@ extensions = [
 # Configuration for intersphinx mapping
 
 intersphinx_mapping = {
-    # Links to the Air Quality Device Application project.
-    'aq-device': ('https://docs.designspark.io/projects/aq-device/en/latest/', None),
+    'aqdev': ('https://docs.designspark.io/projects/aq-device/en/latest/', None),
+    'esdklib': ('https://docs.designspark.io/projects/esdk-library/en/latest/', None),
 }
 
 # Add any paths that contain templates here, relative to this directory.

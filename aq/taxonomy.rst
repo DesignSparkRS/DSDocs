@@ -1,5 +1,5 @@
 Taxonomy
-========
+########
 
 An taxonomy is being developed so as to ensure consistency in the labelling of
 data gathered and avoid multiple labels being used for the same thing. 
@@ -11,7 +11,7 @@ there are two routes to achieving this:
 #. Raise a `support ticket`_ (Air Quality Project - Cloud Support)
 
 Location
---------
+********
 
 .. list-table:: 
    :widths: auto
@@ -51,7 +51,7 @@ Location
      - Any outdoor location, e.g. house wall or garden etc.
 
 Project
--------
+*******
 
 .. list-table::
    :widths: auto
